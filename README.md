@@ -1,5 +1,7 @@
 ## 💻 Hello world, welcome! 🌐
 
+![Oi](https://github.com/LuquinhasMoraes/LuquinhasMoraes/blob/main/LUCAS%20MORAES.jpg)
+
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=https://github.com/LuquinhasMoraes&repo=developer-fernanda&countColorcountColor)
 
 <br>
@@ -39,11 +41,11 @@
 
 <br>
 
-## Statistics
+## Statistics 📊
 
 |Stats  |Languages  |
 |-- | -- |
-|<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=dark"/>   |  <img  align="left"  width="370px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=dark"/>  |
+|<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=midnight-purple"/>   |  <img  align="left"  width="370px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=midnight-purple"/>  |
 
 
 
