@@ -2,7 +2,8 @@
 
 ![Oi](https://github.com/LuquinhasMoraes/LuquinhasMoraes/blob/main/LUCAS%20MORAES.jpg)
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=https://github.com/LuquinhasMoraes&repo=LuquinhasMoraes&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LuquinhasMoraes&repo=LuquinhasMoraes&countColorcountColor)
+
 
 <br>
 
